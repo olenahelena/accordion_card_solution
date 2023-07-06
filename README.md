@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/olenahelena/accordion_card_solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://eloquent-monstera-9a382b.netlify.app/)
 
 
 ### Built with
